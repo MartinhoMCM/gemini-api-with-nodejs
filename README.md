@@ -1,5 +1,5 @@
 [English]
-Unveiling the Power of Generative AI with Gemini API and Node.js
+Unveiling the Power of Generative AI with Gemini API and Node.js. 
 This comprehensive documentation delves into the intricacies of accessing the Gemini API through Node.js, leveraging the Google AI JavaScript SDK.
 
 [Português]
